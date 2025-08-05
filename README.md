@@ -14,4 +14,4 @@ The app needs to be configured in the code at these places:
 - setup tracks in Chaos_Music_Generator_MultiTrack.setup(), including name of DawInput, pitch ranges, et. al.
 - setup midi pitch class set in MidiPitchQuantizer (~ line 9)
 
-Feel free to reach out with any questtions!
+Feel free to reach out with any questions!
